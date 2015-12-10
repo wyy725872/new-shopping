@@ -1,0 +1,100 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: "微软雅黑";
+}
+a{
+	text-decoration: none;
+	color: #666;
+}
+ul li{
+	list-style:none;
+}
+#header{
+	width: 100%;
+	height: 31px;
+	background: #f7f7f7;
+}
+#header li{
+	list-style: none;
+	float: left;
+}
+#head_content{
+	margin: 0 auto;
+	width: 1000px;
+	height: 21px;
+	padding-top: 10px;
+}
+#first{
+	font-weight: bold;
+}
+#head_ul li{
+	float: left;
+	list-style: none;
+	font-size: 10px;
+	color: #666;
+	font-family: "微软雅黑";
+}
+#welcome{
+	margin-left: 700px;
+}
+#head_menu{
+	width: 100%;
+	background: #1d7ad9;
+	height: 86px;
+	vertical-align: center;
+}
+#menu{
+	width: 1000px;
+	margin:0 auto;
+	height: 70px;
+	padding-top: 15px;
+}
+#text{
+	width: 360px;
+	height: 31px;
+	margin-left: 84px;
+	margin-top: 10px;
+	text-indent: 4px;
+}
+#sp_li{
+	margin-right: 32px;
+}
+#sp_li img{
+	vertical-align: middle;
+	margin-top:-1px;
+}
+#sp_car img{
+	margin-top: 10px;
+	vertical-align: middle;
+}
+#menu_sec{
+	width: 100%;
+	background: #1369c0;
+	height: 35px;
+
+}
+#menu_content{
+	width: 1000px;
+	height: 35px;
+	margin: 0 auto;
+	
+}
+#s_li{
+	width: 190px;
+	text-align: center;
+	line-height: 35px;
+}
+#menu_content ul .li{
+	width: 100px;
+	text-align: center;
+	line-height: 35px;
+}
+#menu_content ul li a{
+	color: white;
+}
+#menu_content ul li:hover{
+	background: #4593fd;
+}
+
+/* 头部css样式 */
